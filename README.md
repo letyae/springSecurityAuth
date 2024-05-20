@@ -1,2 +1,2 @@
 # springSecurityAuth
-Spring web project with spring security
+Spring Web project with Spring Security
